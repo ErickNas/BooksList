@@ -1,0 +1,25 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81lU6I-SGDL.jpg",
+      "title": "Coraline",
+      "kind": "Suspense",
+      "description": "Ao abrir uma porta misteriosa na sala de casa, a menina se depara com um lugar macabro e fascinante. Ali, naquele outro mundo, seus outros pais são criaturas muito pálidas, com botões negros no lugar dos olhos, sempre dispostos a lhe dar atenção, fazer suas comidas preferidas e mostrar os brinquedos mais divertidos."
+    },
+    {
+      "id": "2",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81ibfYk4qmL.jpg",
+      "title": "Harry Potter e a pedra filosofal",
+      "kind": "Aventura",
+      "description": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger."
+    },
+    {
+      "id": "3",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL.jpg",
+      "title": "Clean Code",
+      "kind": "Educativo",
+      "description": "O livro ensina a escrever um código limpo, fácil de entender, fácil de fazer manutenção com o custo apenas de ter mais funções, porém funções mais simples e que são mais fáceis de testar. Apesar dos exemplos serem todos em Java, é muito fácil entender os conceitos e aplicar na sua linguagem, seja ela qual for."
+    }
+  ]
+}
